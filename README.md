@@ -1,5 +1,3 @@
-
-
 👋 Hi, I'm Trieu, I'm a Front-End Developer Intern.
 
 🌱 My skill set: HTML, CSS(SCSS), JavaScript, ReactJS, Redux, TailwindCSS...
