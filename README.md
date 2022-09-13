@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on frontend projects
 
-📫 You can contact me by email: zpeng2k@gmail.com.
+📫 You can contact me by email: ***@gmail.com.
 
 😊 It's my pleasure to work with you ^^
 
